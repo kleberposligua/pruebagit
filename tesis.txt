@@ -5,4 +5,8 @@ esme
 raldas
 
 
-Redacción de el capítulo 1
+Redacción del capítulo 1
+
+Redacción del capítulo 2
+	Análisis del sistema
+	Diseño del sistema
